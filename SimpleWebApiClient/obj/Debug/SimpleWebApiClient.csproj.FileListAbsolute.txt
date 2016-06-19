@@ -1,0 +1,16 @@
+C:\SimpleWebApiClient\SimpleWebApiClient\SimpleWebApiClient\bin\Debug\SimpleWebApiClient.exe
+C:\SimpleWebApiClient\SimpleWebApiClient\SimpleWebApiClient\bin\Debug\SimpleWebApiClient.pdb
+C:\SimpleWebApiClient\SimpleWebApiClient\SimpleWebApiClient\obj\Debug\SimpleWebApiClient.csprojResolveAssemblyReference.cache
+C:\SimpleWebApiClient\SimpleWebApiClient\SimpleWebApiClient\obj\Debug\App.g.cs
+C:\SimpleWebApiClient\SimpleWebApiClient\SimpleWebApiClient\obj\Debug\SimpleWebApiClient_MarkupCompile.cache
+C:\SimpleWebApiClient\SimpleWebApiClient\SimpleWebApiClient\obj\Debug\SimpleWebApiClient_MarkupCompile.lref
+C:\SimpleWebApiClient\SimpleWebApiClient\SimpleWebApiClient\obj\Debug\SimpleWebApiClient.g.resources
+C:\SimpleWebApiClient\SimpleWebApiClient\SimpleWebApiClient\obj\Debug\SimpleWebApiClient.Properties.Resources.resources
+C:\SimpleWebApiClient\SimpleWebApiClient\SimpleWebApiClient\obj\Debug\SimpleWebApiClient.csproj.GenerateResource.Cache
+C:\SimpleWebApiClient\SimpleWebApiClient\SimpleWebApiClient\obj\Debug\SimpleWebApiClient.exe
+C:\SimpleWebApiClient\SimpleWebApiClient\SimpleWebApiClient\obj\Debug\SimpleWebApiClient.pdb
+C:\SimpleWebApiClient\SimpleWebApiClient\SimpleWebApiClient\obj\Debug\View.g.cs
+C:\SimpleWebApiClient\SimpleWebApiClient\SimpleWebApiClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\SimpleWebApiClient\SimpleWebApiClient\SimpleWebApiClient\obj\Debug\View.baml
+C:\SimpleWebApiClient\SimpleWebApiClient\SimpleWebApiClient\bin\Debug\Newtonsoft.Json.dll
+C:\SimpleWebApiClient\SimpleWebApiClient\SimpleWebApiClient\bin\Debug\Newtonsoft.Json.xml
